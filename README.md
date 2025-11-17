@@ -63,6 +63,18 @@ Children under 12 also had elevated survival rates.
 Fare and class strongly correlated with survival.
 Cabin information is incomplete but carries strong predictive value when available.
 
+**Diagrams**
+### Distribution of Passenger Ages
+![Age Histogram](images/Distri_of_Passenger_Age.png)
+### Fare vs Age Scatterplot
+![Fare vs Age](images/Age_vs_fare_with_surv.png)
+### Survival by Passenger Class
+![Pclass Survival Chart](images/Survival_rate_by_class.png)
+### Survival by Title
+![Title Survival Chart](images/Survival_rate_by_title.png)
+### Correlation heatmap
+![Correlation Heatmap](images/Corr_heatmap.png)
+
 **How to Run**
 Clone repo:
 git clone https://github.com/<twoj_login>/titanic-data-analysis.git
