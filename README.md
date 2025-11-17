@@ -74,6 +74,8 @@ Cabin information is incomplete but carries strong predictive value when availab
 ![Title Survival Chart](images/Survival_rate_by_title.png)
 ### Correlation heatmap
 ![Correlation Heatmap](images/Corr_heatmap.png)
+### Feature Importance
+![Feature Importance – RandomForest](images/Feature_Importance.png)
 
 **How to Run**
 Clone repo:
