@@ -65,7 +65,7 @@ Cabin information is incomplete but carries strong predictive value when availab
 
 **Diagrams**
 ### Distribution of Passenger Ages
-![Age Histogram](Distri_of_Passenger_Age.png)
+![Age vs Fare with Survival](Age%20vs%20fare%20with%20surv.png)
 ### Fare vs Age Scatterplot
 ![Fare vs Age](images/Age_vs_fare_with_surv.png)
 ### Survival by Passenger Class
