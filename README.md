@@ -64,9 +64,8 @@ Fare and class strongly correlated with survival.
 Cabin information is incomplete but carries strong predictive value when available.
 
 **Diagrams**
-### Distribution of Passenger Ages<img width="705" height="479" alt="Age vs fare with surv" src="https://github.com/user-attachments/assets/f617c54d-66b1-4a28-b6f6-9534e877e4ab" />
-
-![Age Histogram](images/Distri_of_Passenger_Age.png)
+### Distribution of Passenger Ages
+![Age Histogram](Distri_of_Passenger_Age.png)
 ### Fare vs Age Scatterplot
 ![Fare vs Age](images/Age_vs_fare_with_surv.png)
 ### Survival by Passenger Class
