@@ -69,7 +69,7 @@ Cabin information is incomplete but carries strong predictive value when availab
 ### Fare vs Age Scatterplot
 ![Fare vs Age](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Age%20vs%20fare%20with%20surv.png)
 ### Survival by Passenger Class
-![Pclass Survival Chart]((https://github.com/szalonakrystyna/titanicpro/blob/main/images/Survival%20rate%20by%20class.png)
+![Pclass Survival Chart](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Survival%20rate%20by%20class.png)
 ### Survival by Title
 ![Title Survival Chart](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Survival%20rate%20by%20title.png)
 ### Correlation heatmap
