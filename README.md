@@ -65,17 +65,17 @@ Cabin information is incomplete but carries strong predictive value when availab
 
 **Diagrams**
 ### Distribution of Passenger Ages
-![Age vs Fare with Survival](Age%20vs%20fare%20with%20surv.png)
+![Age vs Fare with Survival](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Distri%20of%20Passenger%20Age.png)
 ### Fare vs Age Scatterplot
-![Fare vs Age](images/Age_vs_fare_with_surv.png)
+![Fare vs Age](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Age%20vs%20fare%20with%20surv.png)
 ### Survival by Passenger Class
-![Pclass Survival Chart](images/Survival_rate_by_class.png)
+![Pclass Survival Chart]((https://github.com/szalonakrystyna/titanicpro/blob/main/images/Survival%20rate%20by%20class.png))
 ### Survival by Title
-![Title Survival Chart](images/Survival_rate_by_title.png)
+![Title Survival Chart](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Survival%20rate%20by%20title.png)
 ### Correlation heatmap
-![Correlation Heatmap](images/Corr_heatmap.png)
+![Correlation Heatmap](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Corr%20heatmap.png)
 ### Feature Importance
-![Feature Importance – RandomForest](images/Feature_Importance.png)
+![Feature Importance – RandomForest](https://github.com/szalonakrystyna/titanicpro/blob/main/images/Feature%20Importance.png)
 
 **How to Run**
 Clone repo:
